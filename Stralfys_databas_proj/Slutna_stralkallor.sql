@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[slutna_stralkallor] (
     [Id]                   INT            IDENTITY (1, 1) NOT NULL,
-    [Isotop_ID]            INT            NULL,
+    [Isotop_ID]            INT            NULL ,
     [Kalibreringsdatum]    DATETIME       NULL,
     [ReferensAktivitetMBq] FLOAT (53)     NULL,
     [Serienummer]          NVARCHAR (50)  NULL,
