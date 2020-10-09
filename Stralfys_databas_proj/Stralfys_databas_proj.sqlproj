@@ -57,4 +57,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Slutna_stralkallor.sql" />
+  </ItemGroup>
 </Project>
